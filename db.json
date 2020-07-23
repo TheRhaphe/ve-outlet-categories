@@ -3,17 +3,17 @@
   "message": [
     {
       "id": 1,
-      "title: "Fast Food",
+      "title": "Fast Food",
       "imageUrl": "https://image.shutterstock.com/image-photo/hamburger-potato-fries-cola-drink-260nw-247575118.jpg"
     },
     {
-      "id": 1,
-      "title: "Restaurant",
+      "id": 2,
+      "title": "Restaurant",
       "imageUrl": "https://image.shutterstock.com/image-photo/friends-having-pasta-dinner-home-260nw-1206985765.jpg"
     },
     {
-      "id": 1,
-      "title: "Pub n Grill",
+      "id": 3,
+      "title": "Pub n Grill",
       "imageUrl": "https://image.shutterstock.com/image-photo/closeup-bartender-pouring-dark-stout-260nw-1063123526.jpg"
     }
   ]
