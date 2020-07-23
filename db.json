@@ -1,4 +1,5 @@
 {
+  "outlet_categories": {
   "Action": "1",
   "message": [
     {
@@ -17,4 +18,5 @@
       "imageUrl": "https://image.shutterstock.com/image-photo/closeup-bartender-pouring-dark-stout-260nw-1063123526.jpg"
     }
   ]
+}
 }
