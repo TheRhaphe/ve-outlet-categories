@@ -1,22 +1,32 @@
 {
   "outlet_categories": {
-  "Action": "1",
-  "message": [
-    {
-      "id": 1,
-      "title": "Fast Food",
-      "imageUrl": "https://image.shutterstock.com/image-photo/hamburger-potato-fries-cola-drink-260nw-247575118.jpg"
-    },
-    {
-      "id": 2,
-      "title": "Restaurant",
-      "imageUrl": "https://image.shutterstock.com/image-photo/friends-having-pasta-dinner-home-260nw-1206985765.jpg"
-    },
-    {
-      "id": 3,
-      "title": "Pub n Grill",
-      "imageUrl": "https://image.shutterstock.com/image-photo/closeup-bartender-pouring-dark-stout-260nw-1063123526.jpg"
-    }
-  ]
-}
+    "Action": "1",
+    "message": [
+      {
+        "id": 1,
+        "title": "Fast Food",
+        "imageUrl": "https://image.shutterstock.com/image-photo/hamburger-potato-fries-cola-drink-260nw-247575118.jpg"
+      },
+      {
+        "id": 2,
+        "title": "Restaurant",
+        "imageUrl": "https://image.shutterstock.com/image-photo/friends-having-pasta-dinner-home-260nw-1206985765.jpg"
+      },
+      {
+        "id": 3,
+        "title": "Pub n Grill",
+        "imageUrl": "https://image.shutterstock.com/image-photo/closeup-bartender-pouring-dark-stout-260nw-1063123526.jpg"
+      },
+      {
+        "id": 4,
+        "title": "Café",
+        "imageUrl": "https://image.shutterstock.com/image-photo/coffee-cup-beans-on-table-260nw-261745823.jpg"
+      },
+      {
+        "id": 5,
+        "title": "Confectioneries",
+        "imageUrl": "https://image.shutterstock.com/image-photo/different-homemade-muffins-chocolate-berries-260nw-722286268.jpg"
+      }
+    ]
+  }
 }
