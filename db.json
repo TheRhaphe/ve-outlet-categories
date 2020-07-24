@@ -28,5 +28,125 @@
         "imageUrl": "https://image.shutterstock.com/image-photo/different-homemade-muffins-chocolate-berries-260nw-722286268.jpg"
       }
     ]
+  },
+  "outlets": [
+  {
+    "id": 1,
+    "image": "http://dummyimage.com/135x130.jpg/5fa2dd/ffffff",
+    "name": "Beef Restaurant",
+    "location": "12079 Birchwood Avenue",
+    "status": "closed",
+    "menu": [
+      {
+        "name": "T-bone",
+        "price": 29,
+        "time": 77
+      },
+      {
+        "name": "Mazondo",
+        "price": 21,
+        "time": 23
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "image": "http://dummyimage.com/134x249.png/5fa2dd/ffffff",
+    "name": "Chicken Restaurant",
+    "location": "64 Ramsey Center",
+    "status": "OPEN",
+    "menu": [
+      {
+        "name": "Chilly wings",
+        "price": 96,
+        "time": 54
+      },
+      {
+        "name": "Stewed Breast",
+        "price": 43,
+        "time": 13
+      },
+      {
+        "name": "Nzondora",
+        "price": 8,
+        "time": 40
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "image": "http://dummyimage.com/129x122.bmp/5fa2dd/ffffff",
+    "name": "African Restaurant",
+    "location": "8947 Crowley Parkway",
+    "status": "closed",
+    "menu": [
+      {
+        "name": "Zviyo",
+        "price": 11,
+        "time": 27
+      },
+      {
+        "name": "Mhunga",
+        "price": 20,
+        "time": 16
+      },
+      {
+        "name": "Manhuchi",
+        "price": 69,
+        "time": 92
+      },
+      {
+        "name": "Maheu",
+        "price": 85,
+        "time": 69
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "image": "http://dummyimage.com/114x143.bmp/dddddd/000000",
+    "name": "Asian Restaurant",
+    "location": "11 Dwight Center",
+    "status": "open",
+    "menu": [
+      {
+        "name": "Noodles",
+        "price": 2,
+        "time": 31
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "image": "http://dummyimage.com/130x247.png/cc0000/ffffff",
+    "name": "Zimbabwean Restaurant",
+    "location": "686 Fordem Crossing",
+    "status": "closed",
+    "menu": [
+      {
+        "name": "Mbambaira",
+        "price": 10,
+        "time": 57
+      },
+      {
+        "name": "Mbeva",
+        "price": 10,
+        "time": 53
+      },
+      {
+        "name": "Nyemba",
+        "price": 22,
+        "time": 83
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "image": "http://dummyimage.com/130x247.png/cc0000/ffffff",
+    "name": "New Restaurant",
+    "location": "686 Fordem Crossing",
+    "status": "open",
+    "menu": []
   }
+]
 }
