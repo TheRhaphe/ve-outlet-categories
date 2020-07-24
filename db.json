@@ -29,7 +29,9 @@
       }
     ]
   },
-  "outlets": [
+  "outlets": {
+    "Action": "1",
+    "message": [
   {
     "id": 1,
     "image": "http://dummyimage.com/135x130.jpg/5fa2dd/ffffff",
@@ -149,4 +151,5 @@
     "menu": []
   }
 ]
+  }
 }
