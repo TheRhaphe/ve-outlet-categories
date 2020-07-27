@@ -151,5 +151,13 @@
     "menu": []
   }
 ]
+  },
+  "places": {
+    "Action": "1",
+    "message": [
+      {
+        "name": "The name"
+      }
+    ]
   }
 }
