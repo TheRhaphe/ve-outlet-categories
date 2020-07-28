@@ -34,7 +34,7 @@
     "message": [
   {
     "id": 1,
-    "image": "http://dummyimage.com/135x130.jpg/5fa2dd/ffffff",
+    "imageUrl": "https://image.shutterstock.com/image-photo/crispy-kentucky-fried-chicken-wooden-260nw-368008064.jpg",
     "name": "Beef Restaurant",
     "location": "12079 Birchwood Avenue",
     "status": "closed",
@@ -53,7 +53,7 @@
   },
   {
     "id": 2,
-    "image": "http://dummyimage.com/134x249.png/5fa2dd/ffffff",
+    "imageUrl": "https://image.shutterstock.com/image-photo/crispy-kentucky-fried-chicken-wooden-260nw-368008064.jpg",
     "name": "Chicken Restaurant",
     "location": "64 Ramsey Center",
     "status": "OPEN",
@@ -77,7 +77,7 @@
   },
   {
     "id": 3,
-    "image": "http://dummyimage.com/129x122.bmp/5fa2dd/ffffff",
+    "imageUrl": "https://image.shutterstock.com/image-photo/crispy-kentucky-fried-chicken-wooden-260nw-368008064.jpg",
     "name": "African Restaurant",
     "location": "8947 Crowley Parkway",
     "status": "closed",
@@ -106,7 +106,7 @@
   },
   {
     "id": 4,
-    "image": "http://dummyimage.com/114x143.bmp/dddddd/000000",
+    "imageUrl": "https://image.shutterstock.com/image-photo/crispy-kentucky-fried-chicken-wooden-260nw-368008064.jpg",
     "name": "Asian Restaurant",
     "location": "11 Dwight Center",
     "status": "open",
@@ -120,7 +120,7 @@
   },
   {
     "id": 5,
-    "image": "http://dummyimage.com/130x247.png/cc0000/ffffff",
+    "imageUrl": "https://image.shutterstock.com/image-photo/crispy-kentucky-fried-chicken-wooden-260nw-368008064.jpg",
     "name": "Zimbabwean Restaurant",
     "location": "686 Fordem Crossing",
     "status": "closed",
@@ -144,7 +144,7 @@
   },
   {
     "id": 6,
-    "image": "http://dummyimage.com/130x247.png/cc0000/ffffff",
+    "imageUrl": "https://image.shutterstock.com/image-photo/crispy-kentucky-fried-chicken-wooden-260nw-368008064.jpg",
     "name": "New Restaurant",
     "location": "686 Fordem Crossing",
     "status": "open",
