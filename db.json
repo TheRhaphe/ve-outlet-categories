@@ -42,12 +42,14 @@
       {
         "name": "T-bone",
         "price": 29,
-        "time": 77
+        "time": 77,
+        "imageUrl": "https://image.shutterstock.com/image-photo/crispy-kentucky-fried-chicken-wooden-260nw-368008064.jpg"
       },
       {
         "name": "Mazondo",
         "price": 21,
-        "time": 23
+        "time": 23,
+        "imageUrl": "https://image.shutterstock.com/image-photo/crispy-kentucky-fried-chicken-wooden-260nw-368008064.jpg"
       }
     ]
   },
@@ -61,17 +63,20 @@
       {
         "name": "Chilly wings",
         "price": 96,
-        "time": 54
+        "time": 54,
+        "imageUrl": "https://image.shutterstock.com/image-photo/crispy-kentucky-fried-chicken-wooden-260nw-368008064.jpg"
       },
       {
         "name": "Stewed Breast",
         "price": 43,
-        "time": 13
+        "time": 13,
+        "imageUrl": "https://image.shutterstock.com/image-photo/crispy-kentucky-fried-chicken-wooden-260nw-368008064.jpg"
       },
       {
         "name": "Nzondora",
         "price": 8,
-        "time": 40
+        "time": 40,
+        "imageUrl": "https://image.shutterstock.com/image-photo/crispy-kentucky-fried-chicken-wooden-260nw-368008064.jpg"
       }
     ]
   },
@@ -85,22 +90,26 @@
       {
         "name": "Zviyo",
         "price": 11,
-        "time": 27
+        "time": 27,
+        "imageUrl": "https://image.shutterstock.com/image-photo/crispy-kentucky-fried-chicken-wooden-260nw-368008064.jpg"
       },
       {
         "name": "Mhunga",
         "price": 20,
-        "time": 16
+        "time": 16,
+        "imageUrl": "https://image.shutterstock.com/image-photo/crispy-kentucky-fried-chicken-wooden-260nw-368008064.jpg"
       },
       {
         "name": "Manhuchi",
         "price": 69,
-        "time": 92
+        "time": 92,
+        "imageUrl": "https://image.shutterstock.com/image-photo/crispy-kentucky-fried-chicken-wooden-260nw-368008064.jpg"
       },
       {
         "name": "Maheu",
         "price": 85,
-        "time": 69
+        "time": 69,
+        "imageUrl": "https://image.shutterstock.com/image-photo/crispy-kentucky-fried-chicken-wooden-260nw-368008064.jpg"
       }
     ]
   },
@@ -114,7 +123,8 @@
       {
         "name": "Noodles",
         "price": 2,
-        "time": 31
+        "time": 31,
+        "imageUrl": "https://image.shutterstock.com/image-photo/crispy-kentucky-fried-chicken-wooden-260nw-368008064.jpg"
       }
     ]
   },
@@ -128,17 +138,20 @@
       {
         "name": "Mbambaira",
         "price": 10,
-        "time": 57
+        "time": 57,
+        "imageUrl": "https://image.shutterstock.com/image-photo/crispy-kentucky-fried-chicken-wooden-260nw-368008064.jpg"
       },
       {
         "name": "Mbeva",
         "price": 10,
-        "time": 53
+        "time": 53,
+        "imageUrl": "https://image.shutterstock.com/image-photo/crispy-kentucky-fried-chicken-wooden-260nw-368008064.jpg"
       },
       {
         "name": "Nyemba",
         "price": 22,
-        "time": 83
+        "time": 83,
+        "imageUrl": "https://image.shutterstock.com/image-photo/crispy-kentucky-fried-chicken-wooden-260nw-368008064.jpg"
       }
     ]
   },
